@@ -1,0 +1,40 @@
+body{
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #888888;
+  align-content: center;
+}
+
+table{
+  background: linear-gradient(#ADD8E6, #FFFFFF);
+  width: 100%;
+  border-radius: 25px 25px 25px 25px;
+  border: 3px solid black;
+}
+
+tr{
+  height: 100px;
+}
+
+caption{
+  text-transform: uppercase;
+  margin: 10px 10px;
+  font-family: "Arial";
+  font-size: 250%;
+  color: #FFFFFF;
+}
+
+thead{
+  font-family: "Lucida Handwriting";
+  text-decoration: underline;
+}
+
+td{
+  text-align: center;
+  font-size: 170%;
+  font-weight: bold;
+}
+
+.old{
+  opacity: 0.25;
+}
